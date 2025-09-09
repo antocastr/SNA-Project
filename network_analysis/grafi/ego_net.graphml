@@ -1,0 +1,1307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="artist_n_followers" attr.type="long"/>
+<key id="d3" for="node" attr.name="artist_first_genre" attr.type="string"/>
+<key id="d2" for="node" attr.name="artist_popularity" attr.type="long"/>
+<key id="d1" for="node" attr.name="artist_id" attr.type="string"/>
+<key id="d0" for="node" attr.name="artist_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="3IEvQoAohcGX7CdrbtIle7">
+  <data key="d0">Baby Rasta y Gringo</data>
+  <data key="d1">3IEvQoAohcGX7CdrbtIle7</data>
+  <data key="d2">66</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">3477105</data>
+</node>
+<node id="11iQCRz636WFdHj42qxAF6">
+  <data key="d0">POCAH</data>
+  <data key="d1">11iQCRz636WFdHj42qxAF6</data>
+  <data key="d2">54</data>
+  <data key="d3">brazilian funk</data>
+  <data key="d4">468683</data>
+</node>
+<node id="4SzD0wClEg9NKVJZbCRFqS">
+  <data key="d0">Ele A El Dominio</data>
+  <data key="d1">4SzD0wClEg9NKVJZbCRFqS</data>
+  <data key="d2">70</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">2401655</data>
+</node>
+<node id="4PrinKSrmILmo0kERG0Ogn">
+  <data key="d0">Trina</data>
+  <data key="d1">4PrinKSrmILmo0kERG0Ogn</data>
+  <data key="d2">56</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">1128251</data>
+</node>
+<node id="65jIUih0ZeTUJhSTRuYxpi">
+  <data key="d0">Omy de Oro</data>
+  <data key="d1">65jIUih0ZeTUJhSTRuYxpi</data>
+  <data key="d2">55</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">376758</data>
+</node>
+<node id="0TnOYISbd1XYRBk9myaseg">
+  <data key="d0">Pitbull</data>
+  <data key="d1">0TnOYISbd1XYRBk9myaseg</data>
+  <data key="d2">88</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">11792848</data>
+</node>
+<node id="5bWUlnPx9OYKsLiUJrhCA1">
+  <data key="d0">Jon Z</data>
+  <data key="d1">5bWUlnPx9OYKsLiUJrhCA1</data>
+  <data key="d2">74</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">6961202</data>
+</node>
+<node id="3yd3t8LSNFIy2YNr7rZnxG">
+  <data key="d0">Ñejo y Dálmata</data>
+  <data key="d1">3yd3t8LSNFIy2YNr7rZnxG</data>
+  <data key="d2">34</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">116</data>
+</node>
+<node id="68KZ4vm3B5yAZutdy2RvIE">
+  <data key="d0">Cheka</data>
+  <data key="d1">68KZ4vm3B5yAZutdy2RvIE</data>
+  <data key="d2">48</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">539295</data>
+</node>
+<node id="1SupJlEpv7RS2tPNRaHViT">
+  <data key="d0">Nicky Jam</data>
+  <data key="d1">1SupJlEpv7RS2tPNRaHViT</data>
+  <data key="d2">85</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">20288910</data>
+</node>
+<node id="7iK8PXO48WeuP03g8YR51W">
+  <data key="d0">Myke Towers</data>
+  <data key="d1">7iK8PXO48WeuP03g8YR51W</data>
+  <data key="d2">90</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">21237196</data>
+</node>
+<node id="0odliLZMTk45CEVzF3Zocl">
+  <data key="d0">Mozart La Para</data>
+  <data key="d1">0odliLZMTk45CEVzF3Zocl</data>
+  <data key="d2">55</data>
+  <data key="d3">dembow</data>
+  <data key="d4">381047</data>
+</node>
+<node id="77GVmrLGuxNEvj2ibvT62v">
+  <data key="d0">Luigi 21 Plus</data>
+  <data key="d1">77GVmrLGuxNEvj2ibvT62v</data>
+  <data key="d2">67</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">1521000</data>
+</node>
+<node id="3Ces1OJeGOVGcUB0wPaPXJ">
+  <data key="d0">Mala Rodríguez</data>
+  <data key="d1">3Ces1OJeGOVGcUB0wPaPXJ</data>
+  <data key="d2">57</data>
+  <data key="d3">latin hip hop</data>
+  <data key="d4">568254</data>
+</node>
+<node id="5ImkeVBlU11axX5QwOWg12">
+  <data key="d0">Black Jonas Point</data>
+  <data key="d1">5ImkeVBlU11axX5QwOWg12</data>
+  <data key="d2">48</data>
+  <data key="d3">dembow</data>
+  <data key="d4">155663</data>
+</node>
+<node id="1r4hJ1h58CWwUQe3MxPuau">
+  <data key="d0">Maluma</data>
+  <data key="d1">1r4hJ1h58CWwUQe3MxPuau</data>
+  <data key="d2">88</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">38002594</data>
+</node>
+<node id="5lFhCi03HDneWzvCxGctrT">
+  <data key="d0">Jory Boy</data>
+  <data key="d1">5lFhCi03HDneWzvCxGctrT</data>
+  <data key="d2">73</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">2010916</data>
+</node>
+<node id="2LmcxBak1alK1bf7d1beTr">
+  <data key="d0">Juhn</data>
+  <data key="d1">2LmcxBak1alK1bf7d1beTr</data>
+  <data key="d2">74</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">1475034</data>
+</node>
+<node id="12FHARd9fY0Tu0ila4Ua25">
+  <data key="d0">Trick Daddy</data>
+  <data key="d1">12FHARd9fY0Tu0ila4Ua25</data>
+  <data key="d2">59</data>
+  <data key="d3">southern hip hop</data>
+  <data key="d4">1153394</data>
+</node>
+<node id="4eYnorQRhVHT2KBl2UyHHd">
+  <data key="d0">Vegedream</data>
+  <data key="d1">4eYnorQRhVHT2KBl2UyHHd</data>
+  <data key="d2">65</data>
+  <data key="d3">pop urbaine</data>
+  <data key="d4">1951297</data>
+</node>
+<node id="2q5CFHUlGfkvRSAw419MAE">
+  <data key="d0">Angel Doze</data>
+  <data key="d1">2q5CFHUlGfkvRSAw419MAE</data>
+  <data key="d2">33</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">89650</data>
+</node>
+<node id="21451j1KhjAiaYKflxBjr1">
+  <data key="d0">Zion &amp; Lennox</data>
+  <data key="d1">21451j1KhjAiaYKflxBjr1</data>
+  <data key="d2">79</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">8230873</data>
+</node>
+<node id="2HOZmbv4saI1WELN907XSN">
+  <data key="d0">The Chosen Few</data>
+  <data key="d1">2HOZmbv4saI1WELN907XSN</data>
+  <data key="d2">41</data>
+  <data key="d3">bachata</data>
+  <data key="d4">457</data>
+</node>
+<node id="2jSGzJw0ebJLu7OLVSOcBP">
+  <data key="d0">Plan B</data>
+  <data key="d1">2jSGzJw0ebJLu7OLVSOcBP</data>
+  <data key="d2">81</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">6405048</data>
+</node>
+<node id="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d0">Bryant Myers</data>
+  <data key="d1">6w9ToX5slZ4uIdmD17hJ3c</data>
+  <data key="d2">84</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">13239372</data>
+</node>
+<node id="5fJsY7afrbsyzJj9wdzJMh">
+  <data key="d0">Tito "El Bambino"</data>
+  <data key="d1">5fJsY7afrbsyzJj9wdzJMh</data>
+  <data key="d2">71</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">4236884</data>
+</node>
+<node id="1m82A2YUjBaQnLAFi9vjJv">
+  <data key="d0">Poeta Callejero</data>
+  <data key="d1">1m82A2YUjBaQnLAFi9vjJv</data>
+  <data key="d2">41</data>
+  <data key="d3">dembow</data>
+  <data key="d4">117973</data>
+</node>
+<node id="7whnCG4xTRqrIsagRrrjLj">
+  <data key="d0">Harold Velazquez</data>
+  <data key="d1">7whnCG4xTRqrIsagRrrjLj</data>
+  <data key="d2">37</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">52616</data>
+</node>
+<node id="5nLYd9ST4Cnwy6NHaCxbj8">
+  <data key="d0">CeeLo Green</data>
+  <data key="d1">5nLYd9ST4Cnwy6NHaCxbj8</data>
+  <data key="d2">72</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">698736</data>
+</node>
+<node id="2YVq6HER0sDiKXA1XieVtd">
+  <data key="d0">Omega</data>
+  <data key="d1">2YVq6HER0sDiKXA1XieVtd</data>
+  <data key="d2">23</data>
+  <data key="d3">merengue</data>
+  <data key="d4">22</data>
+</node>
+<node id="4DROs1Ye9DiLY3X8L7xvl8">
+  <data key="d0">Andrez Babii</data>
+  <data key="d1">4DROs1Ye9DiLY3X8L7xvl8</data>
+  <data key="d2">48</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">42822</data>
+</node>
+<node id="33ScadVnbm2X8kkUqOkC6Z">
+  <data key="d0">Don Omar</data>
+  <data key="d1">33ScadVnbm2X8kkUqOkC6Z</data>
+  <data key="d2">86</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">15692130</data>
+</node>
+<node id="1RBzGO6Nm3uyhUSxP7EDWO">
+  <data key="d0">KEVIN ROLDAN</data>
+  <data key="d1">1RBzGO6Nm3uyhUSxP7EDWO</data>
+  <data key="d2">72</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">5608638</data>
+</node>
+<node id="4Xhe8s10yLiuTzG7k1Kq4W">
+  <data key="d0">Christian Ponce</data>
+  <data key="d1">4Xhe8s10yLiuTzG7k1Kq4W</data>
+  <data key="d2">47</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">107550</data>
+</node>
+<node id="1TtXnWcUs0FCkaZDPGYHdf">
+  <data key="d0">Darell</data>
+  <data key="d1">1TtXnWcUs0FCkaZDPGYHdf</data>
+  <data key="d2">79</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">4816157</data>
+</node>
+<node id="1sBkRIssrMs1AbVkOJbc7a">
+  <data key="d0">Rick Ross</data>
+  <data key="d1">1sBkRIssrMs1AbVkOJbc7a</data>
+  <data key="d2">80</data>
+  <data key="d3">southern hip hop</data>
+  <data key="d4">7663287</data>
+</node>
+<node id="7qYeIN2r4H1kBvr0Gm9Iav">
+  <data key="d0">Randy Nota Loca</data>
+  <data key="d1">7qYeIN2r4H1kBvr0Gm9Iav</data>
+  <data key="d2">71</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">799032</data>
+</node>
+<node id="4IMAo2UQchVFyPH24PAjUs">
+  <data key="d0">Jowell &amp; Randy</data>
+  <data key="d1">4IMAo2UQchVFyPH24PAjUs</data>
+  <data key="d2">74</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">4450699</data>
+</node>
+<node id="7E8yETzDbHYASNxtFQysf7">
+  <data key="d0">Dynasty</data>
+  <data key="d1">7E8yETzDbHYASNxtFQysf7</data>
+  <data key="d2">34</data>
+  <data key="d3">post-disco</data>
+  <data key="d4">14081</data>
+</node>
+<node id="1wZtkThiXbVNtj6hee6dz9">
+  <data key="d0">Wisin &amp; Yandel</data>
+  <data key="d1">1wZtkThiXbVNtj6hee6dz9</data>
+  <data key="d2">83</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">8819375</data>
+</node>
+<node id="62U9TXZx2SxvIoxXHtHlzR">
+  <data key="d0">Mexicano</data>
+  <data key="d1">62U9TXZx2SxvIoxXHtHlzR</data>
+  <data key="d2">36</data>
+  <data key="d3">latin hip hop</data>
+  <data key="d4">100518</data>
+</node>
+<node id="2Lm6S3Y98EHssR7Y9teg9G">
+  <data key="d0">High Quality</data>
+  <data key="d1">2Lm6S3Y98EHssR7Y9teg9G</data>
+  <data key="d2">54</data>
+  <data key="d3">riddim</data>
+  <data key="d4">382</data>
+</node>
+<node id="5sUrlPAHlS9NEirDB8SEbF">
+  <data key="d0">Alejandro Sanz</data>
+  <data key="d1">5sUrlPAHlS9NEirDB8SEbF</data>
+  <data key="d2">82</data>
+  <data key="d3">latin pop</data>
+  <data key="d4">8255110</data>
+</node>
+<node id="5RngmQiJGRMuGiPr6H4ad3">
+  <data key="d0">Rubiera</data>
+  <data key="d1">5RngmQiJGRMuGiPr6H4ad3</data>
+  <data key="d2">30</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">1956</data>
+</node>
+<node id="1pf0MPKfKdvS8J779mS1Ay">
+  <data key="d0">Miky Woodz</data>
+  <data key="d1">1pf0MPKfKdvS8J779mS1Ay</data>
+  <data key="d2">72</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">4500712</data>
+</node>
+<node id="7oMRcCu0OYSCtCyS3P37iC">
+  <data key="d0">Afro B</data>
+  <data key="d1">7oMRcCu0OYSCtCyS3P37iC</data>
+  <data key="d2">54</data>
+  <data key="d3">afrobeats</data>
+  <data key="d4">223367</data>
+</node>
+<node id="5pnbUBPifNnlusY8kTBivi">
+  <data key="d0">Jadakiss</data>
+  <data key="d1">5pnbUBPifNnlusY8kTBivi</data>
+  <data key="d2">66</data>
+  <data key="d3">east coast hip hop</data>
+  <data key="d4">1257873</data>
+</node>
+<node id="7wU2WGCJ8HxkekHHE2QLul">
+  <data key="d0">Fuego</data>
+  <data key="d1">7wU2WGCJ8HxkekHHE2QLul</data>
+  <data key="d2">62</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">283937</data>
+</node>
+<node id="56wdeN8OMcYrcKA8nWCkRD">
+  <data key="d0">DJ PEREIRA</data>
+  <data key="d1">56wdeN8OMcYrcKA8nWCkRD</data>
+  <data key="d2">27</data>
+  <data key="d3">guaracha</data>
+  <data key="d4">6756</data>
+</node>
+<node id="5dnToFbLQQ7ZIJGaesqGoh">
+  <data key="d0">Secreto</data>
+  <data key="d1">5dnToFbLQQ7ZIJGaesqGoh</data>
+  <data key="d2">28</data>
+  <data key="d3">dembow</data>
+  <data key="d4">5520</data>
+</node>
+<node id="3EiLUeyEcA6fbRPSHkG5kb">
+  <data key="d0">De La Ghetto</data>
+  <data key="d1">3EiLUeyEcA6fbRPSHkG5kb</data>
+  <data key="d2">80</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">7746501</data>
+</node>
+<node id="5XxL3trG0x8T7rJeYHyEbQ">
+  <data key="d0">LYAN</data>
+  <data key="d1">5XxL3trG0x8T7rJeYHyEbQ</data>
+  <data key="d2">54</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">860</data>
+</node>
+<node id="6P6GTRTigHBp8ZesNtpCKH">
+  <data key="d0">Almighty</data>
+  <data key="d1">6P6GTRTigHBp8ZesNtpCKH</data>
+  <data key="d2">77</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">1636210</data>
+</node>
+<node id="6WpyChzOE17EotLrDxy3Cb">
+  <data key="d0">Three Seven Music</data>
+  <data key="d1">6WpyChzOE17EotLrDxy3Cb</data>
+  <data key="d2">44</data>
+  <data key="d3">dembow</data>
+  <data key="d4">280</data>
+</node>
+<node id="5RzT7CM6Ot0sh0EHefMicV">
+  <data key="d0">Maffio</data>
+  <data key="d1">5RzT7CM6Ot0sh0EHefMicV</data>
+  <data key="d2">56</data>
+  <data key="d3">dembow</data>
+  <data key="d4">34355</data>
+</node>
+<node id="76whng5pl9msPkkjFUtWYn">
+  <data key="d0">Tempo</data>
+  <data key="d1">76whng5pl9msPkkjFUtWYn</data>
+  <data key="d2">62</data>
+  <data key="d3">latin hip hop</data>
+  <data key="d4">986632</data>
+</node>
+<node id="4SsVbpTthjScTS7U2hmr1X">
+  <data key="d0">Arcángel</data>
+  <data key="d1">4SsVbpTthjScTS7U2hmr1X</data>
+  <data key="d2">86</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">17550058</data>
+</node>
+<node id="4BYn8aKDAf0keMvw8k28Kb">
+  <data key="d0">Ariel Kelly</data>
+  <data key="d1">4BYn8aKDAf0keMvw8k28Kb</data>
+  <data key="d2">40</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">124367</data>
+</node>
+<node id="5mMuiFhh7faS7qxnTLRA6u">
+  <data key="d0">Barrington Levy</data>
+  <data key="d1">5mMuiFhh7faS7qxnTLRA6u</data>
+  <data key="d2">61</data>
+  <data key="d3">reggae</data>
+  <data key="d4">336999</data>
+</node>
+<node id="3rDYAiKm3c9RgztxGEUfto">
+  <data key="d0">Cromo X</data>
+  <data key="d1">3rDYAiKm3c9RgztxGEUfto</data>
+  <data key="d2">30</data>
+  <data key="d3">dembow</data>
+  <data key="d4">3668</data>
+</node>
+<node id="1i8SpTcr7yvPOmcqrbnVXY">
+  <data key="d0">Ozuna</data>
+  <data key="d1">1i8SpTcr7yvPOmcqrbnVXY</data>
+  <data key="d2">89</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">39021914</data>
+</node>
+<node id="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d0">Boy Wonder CF</data>
+  <data key="d1">01nUdqwuIHCHLZNP2TvYVF</data>
+  <data key="d2">67</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">157731</data>
+</node>
+<node id="4z19QMyPVRwbd4Fs2LisBa">
+  <data key="d0">Darkiel</data>
+  <data key="d1">4z19QMyPVRwbd4Fs2LisBa</data>
+  <data key="d2">72</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">1373816</data>
+</node>
+<node id="18uNULJ5iZf4hIcGq5WvbZ">
+  <data key="d0">Samuel Adorno</data>
+  <data key="d1">18uNULJ5iZf4hIcGq5WvbZ</data>
+  <data key="d2">29</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">5729</data>
+</node>
+<node id="00me4Ke1LsvMxt5kydlMyU">
+  <data key="d0">Cosculluela</data>
+  <data key="d1">00me4Ke1LsvMxt5kydlMyU</data>
+  <data key="d2">77</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">6831225</data>
+</node>
+<node id="329e4yvIujISKGKz1BZZbO">
+  <data key="d0">Farruko</data>
+  <data key="d1">329e4yvIujISKGKz1BZZbO</data>
+  <data key="d2">86</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">16845707</data>
+</node>
+<node id="1AACxWCwNIa3ecOBQJnXRV">
+  <data key="d0">Nino Freestyle</data>
+  <data key="d1">1AACxWCwNIa3ecOBQJnXRV</data>
+  <data key="d2">47</data>
+  <data key="d3">dembow</data>
+  <data key="d4">157451</data>
+</node>
+<node id="0KPX4Ucy9dk82uj4GpKesn">
+  <data key="d0">Dalex</data>
+  <data key="d1">0KPX4Ucy9dk82uj4GpKesn</data>
+  <data key="d2">76</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">5106168</data>
+</node>
+<node id="1fux65HMCBvfJHqlBc4Nno">
+  <data key="d0">Casper Magico</data>
+  <data key="d1">1fux65HMCBvfJHqlBc4Nno</data>
+  <data key="d2">70</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">2625859</data>
+</node>
+<node id="2t7vyRN71qtQT18frElAnV">
+  <data key="d0">Maikel Delacalle</data>
+  <data key="d1">2t7vyRN71qtQT18frElAnV</data>
+  <data key="d2">62</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">522923</data>
+</node>
+<node id="3jFjgKOGfVLWfXX8q5wrsg">
+  <data key="d0">R.K.M &amp; Ken-Y</data>
+  <data key="d1">3jFjgKOGfVLWfXX8q5wrsg</data>
+  <data key="d2">70</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">816327</data>
+</node>
+<node id="09xRT8VIvTTNEAfz0HTxvx">
+  <data key="d0">Leo Bash</data>
+  <data key="d1">09xRT8VIvTTNEAfz0HTxvx</data>
+  <data key="d2">25</data>
+  <data key="d3">urbano latino</data>
+  <data key="d4">22818</data>
+</node>
+<node id="2e5kXDvESsDPMyuQZ0qouH">
+  <data key="d0">Shootter Ledo</data>
+  <data key="d1">2e5kXDvESsDPMyuQZ0qouH</data>
+  <data key="d2">40</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">3551</data>
+</node>
+<node id="1cH1z49SP3Ul0DxaRLWYVy">
+  <data key="d0">Héctor Delgado</data>
+  <data key="d1">1cH1z49SP3Ul0DxaRLWYVy</data>
+  <data key="d2">30</data>
+  <data key="d3">christian</data>
+  <data key="d4">22702</data>
+</node>
+<node id="4myAXQmMuS1lZe8T6Y7eBg">
+  <data key="d0">Yomo</data>
+  <data key="d1">4myAXQmMuS1lZe8T6Y7eBg</data>
+  <data key="d2">63</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">1022714</data>
+</node>
+<node id="0zz9lzzQBgwxEDsYHy0H2n">
+  <data key="d0">Chiko Swagg</data>
+  <data key="d1">0zz9lzzQBgwxEDsYHy0H2n</data>
+  <data key="d2">34</data>
+  <data key="d3">bachata</data>
+  <data key="d4">1417</data>
+</node>
+<node id="4QoDg1T93yGL14pSesSyUj">
+  <data key="d0">Mestiza</data>
+  <data key="d1">4QoDg1T93yGL14pSesSyUj</data>
+  <data key="d2">27</data>
+  <data key="d3">latin hip hop</data>
+  <data key="d4">41968</data>
+</node>
+<node id="1QhaqxeqF9sipS2gwbEKpu">
+  <data key="d0">C-Kan</data>
+  <data key="d1">1QhaqxeqF9sipS2gwbEKpu</data>
+  <data key="d2">73</data>
+  <data key="d3">mexican hip hop</data>
+  <data key="d4">3706506</data>
+</node>
+<node id="12vb80Km0Ew53ABfJOepVz">
+  <data key="d0">Ñengo Flow</data>
+  <data key="d1">12vb80Km0Ew53ABfJOepVz</data>
+  <data key="d2">82</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">7169477</data>
+</node>
+<node id="7fzjOp0zWBmu7M5R7kZW60">
+  <data key="d0">Mr. Saik</data>
+  <data key="d1">7fzjOp0zWBmu7M5R7kZW60</data>
+  <data key="d2">51</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">78598</data>
+</node>
+<node id="0KKUc4amZyvswV2YL6WTar">
+  <data key="d0">Mariah Angeliq</data>
+  <data key="d1">0KKUc4amZyvswV2YL6WTar</data>
+  <data key="d2">65</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">534113</data>
+</node>
+<node id="4gUE1bhccIGVxxwXIyuWYD">
+  <data key="d0">Arcángel</data>
+  <data key="d1">4gUE1bhccIGVxxwXIyuWYD</data>
+  <data key="d2">37</data>
+  <data key="d3">flamenco</data>
+  <data key="d4">15012</data>
+</node>
+<node id="38Zp4UKTgjSoGoto3WHBNr">
+  <data key="d0">Jenny "La Sexy Voz"</data>
+  <data key="d1">38Zp4UKTgjSoGoto3WHBNr</data>
+  <data key="d2">42</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">7489</data>
+</node>
+<node id="1pmixngtBJleMrGUG5o8DE">
+  <data key="d0">Mr. Vegas</data>
+  <data key="d1">1pmixngtBJleMrGUG5o8DE</data>
+  <data key="d2">58</data>
+  <data key="d3">dancehall</data>
+  <data key="d4">378767</data>
+</node>
+<node id="1iUzrM5MrTizYrOdqVH5bK">
+  <data key="d0">Omega</data>
+  <data key="d1">1iUzrM5MrTizYrOdqVH5bK</data>
+  <data key="d2">50</data>
+  <data key="d3">cuarteto</data>
+  <data key="d4">37616</data>
+</node>
+<node id="4QVBYiagIaa6ZGSPMbybpy">
+  <data key="d0">Pedro Capó</data>
+  <data key="d1">4QVBYiagIaa6ZGSPMbybpy</data>
+  <data key="d2">70</data>
+  <data key="d3">latin pop</data>
+  <data key="d4">1725090</data>
+</node>
+<node id="3PkVrt8lRBTV2RDSICxz5X">
+  <data key="d0">Divino</data>
+  <data key="d1">3PkVrt8lRBTV2RDSICxz5X</data>
+  <data key="d2">51</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">652628</data>
+</node>
+<node id="0lnehUfeSQDs1Mbbc4fa6K">
+  <data key="d0">Papi Wilo</data>
+  <data key="d1">0lnehUfeSQDs1Mbbc4fa6K</data>
+  <data key="d2">44</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">246483</data>
+</node>
+<node id="6vbY3hOaCAhC7VjucswgdS">
+  <data key="d0">Twista</data>
+  <data key="d1">6vbY3hOaCAhC7VjucswgdS</data>
+  <data key="d2">68</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">1222008</data>
+</node>
+<node id="1q13yHC6Syg5Y8iPLrRnCq">
+  <data key="d0">Joell Ortiz</data>
+  <data key="d1">1q13yHC6Syg5Y8iPLrRnCq</data>
+  <data key="d2">46</data>
+  <data key="d3">east coast hip hop</data>
+  <data key="d4">177983</data>
+</node>
+<node id="6kq4GHwUcUojGIu0ziSNXf">
+  <data key="d0">Amenazzy</data>
+  <data key="d1">6kq4GHwUcUojGIu0ziSNXf</data>
+  <data key="d2">66</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">3322556</data>
+</node>
+<node id="5em6oZOCAjymksDCAMH8Zh">
+  <data key="d0">Anonimus</data>
+  <data key="d1">5em6oZOCAjymksDCAMH8Zh</data>
+  <data key="d2">22</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">312</data>
+</node>
+<node id="5XJDexmWFLWOkjOEjOVX3e">
+  <data key="d0">Eladio Carrion</data>
+  <data key="d1">5XJDexmWFLWOkjOEjOVX3e</data>
+  <data key="d2">83</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">8989696</data>
+</node>
+<node id="16Juw2gfa9IxEL3Vu69cH7">
+  <data key="d0">Yaga &amp; Mackie</data>
+  <data key="d1">16Juw2gfa9IxEL3Vu69cH7</data>
+  <data key="d2">63</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">606835</data>
+</node>
+<node id="4GMgdB3vwbBOc42hbXEi9p">
+  <data key="d0">N.O.R.E.</data>
+  <data key="d1">4GMgdB3vwbBOc42hbXEi9p</data>
+  <data key="d2">60</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">417996</data>
+</node>
+<node id="5EvFsr3kj42KNv97ZEnqij">
+  <data key="d0">Shaggy</data>
+  <data key="d1">5EvFsr3kj42KNv97ZEnqij</data>
+  <data key="d2">76</data>
+  <data key="d3">reggae</data>
+  <data key="d4">2448677</data>
+</node>
+<node id="3Wb38LDP3N4tkobValgE9D">
+  <data key="d0">Juanka</data>
+  <data key="d1">3Wb38LDP3N4tkobValgE9D</data>
+  <data key="d2">69</data>
+  <data key="d3">reggaeton chileno</data>
+  <data key="d4">881911</data>
+</node>
+<node id="0ocFjQRJwMXu71M4hFuAuw">
+  <data key="d0">Getto</data>
+  <data key="d1">0ocFjQRJwMXu71M4hFuAuw</data>
+  <data key="d2">29</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">2941</data>
+</node>
+<node id="3ScY9CQxNLQei8Umvpx5g6">
+  <data key="d0">Fat Joe</data>
+  <data key="d1">3ScY9CQxNLQei8Umvpx5g6</data>
+  <data key="d2">70</data>
+  <data key="d3">east coast hip hop</data>
+  <data key="d4">2088906</data>
+</node>
+<node id="3RtNN1VnooWEn3KQk03DUL">
+  <data key="d0">Noriel</data>
+  <data key="d1">3RtNN1VnooWEn3KQk03DUL</data>
+  <data key="d2">80</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">8735828</data>
+</node>
+<node id="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d0">Héctor "El Father"</data>
+  <data key="d1">2TjgzYcbTdsZjbT9OItIeB</data>
+  <data key="d2">72</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">1068813</data>
+</node>
+<node id="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d0">Baby Rasta</data>
+  <data key="d1">0GgyFUpOyzWDRDqx8FCTDN</data>
+  <data key="d2">72</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">2458394</data>
+</node>
+<node id="11IcDecUvnKOttYzE3d0Z1">
+  <data key="d0">Wise "the Gold Pen"</data>
+  <data key="d1">11IcDecUvnKOttYzE3d0Z1</data>
+  <data key="d2">45</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">103865</data>
+</node>
+<node id="7e10JUMF7MJmmwYpnTSMI5">
+  <data key="d0">Dave East</data>
+  <data key="d1">7e10JUMF7MJmmwYpnTSMI5</data>
+  <data key="d2">59</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">720722</data>
+</node>
+<node id="6AMa1VFQ7qCi61tCRtVWXe">
+  <data key="d0">Jim Jones</data>
+  <data key="d1">6AMa1VFQ7qCi61tCRtVWXe</data>
+  <data key="d2">55</data>
+  <data key="d3">genre_not_available</data>
+  <data key="d4">725165</data>
+</node>
+<node id="1mcTU81TzQhprhouKaTkpq">
+  <data key="d0">Rauw Alejandro</data>
+  <data key="d1">1mcTU81TzQhprhouKaTkpq</data>
+  <data key="d2">91</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">30276162</data>
+</node>
+<node id="5UGUivMfBVd8JcBfjnniBf">
+  <data key="d0">Natan El Profeta</data>
+  <data key="d1">5UGUivMfBVd8JcBfjnniBf</data>
+  <data key="d2">49</data>
+  <data key="d3">christian hip hop</data>
+  <data key="d4">208121</data>
+</node>
+<node id="1Ts9of7VPZElwPQnqnDSfW">
+  <data key="d0">Lyanno</data>
+  <data key="d1">1Ts9of7VPZElwPQnqnDSfW</data>
+  <data key="d2">74</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">1914613</data>
+</node>
+<node id="0tR60pwxQ5WKjPxQcKoCQ7">
+  <data key="d0">Messiah</data>
+  <data key="d1">0tR60pwxQ5WKjPxQcKoCQ7</data>
+  <data key="d2">60</data>
+  <data key="d3">trap latino</data>
+  <data key="d4">114788</data>
+</node>
+<node id="6XFITTl7cFTdopDY3lUdlY">
+  <data key="d0">J Alvarez</data>
+  <data key="d1">6XFITTl7cFTdopDY3lUdlY</data>
+  <data key="d2">72</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">5746616</data>
+</node>
+<node id="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d0">Nio Garcia</data>
+  <data key="d1">5hdhHgpxyniooUiQVaPxQ0</data>
+  <data key="d2">71</data>
+  <data key="d3">reggaeton</data>
+  <data key="d4">5532827</data>
+</node>
+<edge source="3IEvQoAohcGX7CdrbtIle7" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">1</data>
+</edge>
+<edge source="3IEvQoAohcGX7CdrbtIle7" target="1QhaqxeqF9sipS2gwbEKpu">
+  <data key="d5">1</data>
+</edge>
+<edge source="3IEvQoAohcGX7CdrbtIle7" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="11iQCRz636WFdHj42qxAF6" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4SzD0wClEg9NKVJZbCRFqS" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">1</data>
+</edge>
+<edge source="4SzD0wClEg9NKVJZbCRFqS" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4PrinKSrmILmo0kERG0Ogn" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="65jIUih0ZeTUJhSTRuYxpi" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="65jIUih0ZeTUJhSTRuYxpi" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="0TnOYISbd1XYRBk9myaseg" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5bWUlnPx9OYKsLiUJrhCA1" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="5bWUlnPx9OYKsLiUJrhCA1" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">2</data>
+</edge>
+<edge source="5bWUlnPx9OYKsLiUJrhCA1" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">12</data>
+</edge>
+<edge source="5bWUlnPx9OYKsLiUJrhCA1" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">18</data>
+</edge>
+<edge source="3yd3t8LSNFIy2YNr7rZnxG" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="68KZ4vm3B5yAZutdy2RvIE" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1SupJlEpv7RS2tPNRaHViT" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="1SupJlEpv7RS2tPNRaHViT" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">1</data>
+</edge>
+<edge source="1SupJlEpv7RS2tPNRaHViT" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="7iK8PXO48WeuP03g8YR51W" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="7iK8PXO48WeuP03g8YR51W" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">2</data>
+</edge>
+<edge source="7iK8PXO48WeuP03g8YR51W" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">2</data>
+</edge>
+<edge source="7iK8PXO48WeuP03g8YR51W" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="0odliLZMTk45CEVzF3Zocl" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="77GVmrLGuxNEvj2ibvT62v" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="3Ces1OJeGOVGcUB0wPaPXJ" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5ImkeVBlU11axX5QwOWg12" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="4IMAo2UQchVFyPH24PAjUs">
+  <data key="d5">1</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="33ScadVnbm2X8kkUqOkC6Z">
+  <data key="d5">1</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="4SsVbpTthjScTS7U2hmr1X">
+  <data key="d5">2</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="3EiLUeyEcA6fbRPSHkG5kb">
+  <data key="d5">2</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="0KPX4Ucy9dk82uj4GpKesn">
+  <data key="d5">1</data>
+</edge>
+<edge source="1r4hJ1h58CWwUQe3MxPuau" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="5lFhCi03HDneWzvCxGctrT" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">4</data>
+</edge>
+<edge source="5lFhCi03HDneWzvCxGctrT" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="2LmcxBak1alK1bf7d1beTr" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="12FHARd9fY0Tu0ila4Ua25" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4eYnorQRhVHT2KBl2UyHHd" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="2q5CFHUlGfkvRSAw419MAE" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">1</data>
+</edge>
+<edge source="2q5CFHUlGfkvRSAw419MAE" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="21451j1KhjAiaYKflxBjr1" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="21451j1KhjAiaYKflxBjr1" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="2HOZmbv4saI1WELN907XSN" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="2jSGzJw0ebJLu7OLVSOcBP" target="6w9ToX5slZ4uIdmD17hJ3c">
+  <data key="d5">1</data>
+</edge>
+<edge source="2jSGzJw0ebJLu7OLVSOcBP" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="2jSGzJw0ebJLu7OLVSOcBP" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1i8SpTcr7yvPOmcqrbnVXY">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="6P6GTRTigHBp8ZesNtpCKH">
+  <data key="d5">2</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="5XJDexmWFLWOkjOEjOVX3e">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="3RtNN1VnooWEn3KQk03DUL">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1pf0MPKfKdvS8J779mS1Ay">
+  <data key="d5">10</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1RBzGO6Nm3uyhUSxP7EDWO">
+  <data key="d5">7</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1Ts9of7VPZElwPQnqnDSfW">
+  <data key="d5">2</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="4SsVbpTthjScTS7U2hmr1X">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1TtXnWcUs0FCkaZDPGYHdf">
+  <data key="d5">2</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="329e4yvIujISKGKz1BZZbO">
+  <data key="d5">2</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="1mcTU81TzQhprhouKaTkpq">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="00me4Ke1LsvMxt5kydlMyU">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="0tR60pwxQ5WKjPxQcKoCQ7">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="5fJsY7afrbsyzJj9wdzJMh">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="3EiLUeyEcA6fbRPSHkG5kb">
+  <data key="d5">1</data>
+</edge>
+<edge source="6w9ToX5slZ4uIdmD17hJ3c" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5fJsY7afrbsyzJj9wdzJMh" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">1</data>
+</edge>
+<edge source="5fJsY7afrbsyzJj9wdzJMh" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1m82A2YUjBaQnLAFi9vjJv" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="7whnCG4xTRqrIsagRrrjLj" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5nLYd9ST4Cnwy6NHaCxbj8" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="2YVq6HER0sDiKXA1XieVtd" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4DROs1Ye9DiLY3X8L7xvl8" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="33ScadVnbm2X8kkUqOkC6Z" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">2</data>
+</edge>
+<edge source="33ScadVnbm2X8kkUqOkC6Z" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="1RBzGO6Nm3uyhUSxP7EDWO" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4Xhe8s10yLiuTzG7k1Kq4W" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="1TtXnWcUs0FCkaZDPGYHdf" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">2</data>
+</edge>
+<edge source="1TtXnWcUs0FCkaZDPGYHdf" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">3</data>
+</edge>
+<edge source="1TtXnWcUs0FCkaZDPGYHdf" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1sBkRIssrMs1AbVkOJbc7a" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="7qYeIN2r4H1kBvr0Gm9Iav" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="7qYeIN2r4H1kBvr0Gm9Iav" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4IMAo2UQchVFyPH24PAjUs" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">2</data>
+</edge>
+<edge source="4IMAo2UQchVFyPH24PAjUs" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="7E8yETzDbHYASNxtFQysf7" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1wZtkThiXbVNtj6hee6dz9" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="1wZtkThiXbVNtj6hee6dz9" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="62U9TXZx2SxvIoxXHtHlzR" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="2Lm6S3Y98EHssR7Y9teg9G" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5sUrlPAHlS9NEirDB8SEbF" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5RngmQiJGRMuGiPr6H4ad3" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1pf0MPKfKdvS8J779mS1Ay" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="7oMRcCu0OYSCtCyS3P37iC" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="5pnbUBPifNnlusY8kTBivi" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="7wU2WGCJ8HxkekHHE2QLul" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">7</data>
+</edge>
+<edge source="56wdeN8OMcYrcKA8nWCkRD" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="5dnToFbLQQ7ZIJGaesqGoh" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="3EiLUeyEcA6fbRPSHkG5kb" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">1</data>
+</edge>
+<edge source="3EiLUeyEcA6fbRPSHkG5kb" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">1</data>
+</edge>
+<edge source="3EiLUeyEcA6fbRPSHkG5kb" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">3</data>
+</edge>
+<edge source="5XxL3trG0x8T7rJeYHyEbQ" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="6P6GTRTigHBp8ZesNtpCKH" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="6WpyChzOE17EotLrDxy3Cb" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5RzT7CM6Ot0sh0EHefMicV" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">3</data>
+</edge>
+<edge source="76whng5pl9msPkkjFUtWYn" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="76whng5pl9msPkkjFUtWYn" target="1QhaqxeqF9sipS2gwbEKpu">
+  <data key="d5">1</data>
+</edge>
+<edge source="76whng5pl9msPkkjFUtWYn" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">2</data>
+</edge>
+<edge source="4SsVbpTthjScTS7U2hmr1X" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="4SsVbpTthjScTS7U2hmr1X" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">1</data>
+</edge>
+<edge source="4SsVbpTthjScTS7U2hmr1X" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="4BYn8aKDAf0keMvw8k28Kb" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="5mMuiFhh7faS7qxnTLRA6u" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="3rDYAiKm3c9RgztxGEUfto" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="1i8SpTcr7yvPOmcqrbnVXY" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="1i8SpTcr7yvPOmcqrbnVXY" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">1</data>
+</edge>
+<edge source="1i8SpTcr7yvPOmcqrbnVXY" target="01nUdqwuIHCHLZNP2TvYVF">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1AACxWCwNIa3ecOBQJnXRV">
+  <data key="d5">6</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4z19QMyPVRwbd4Fs2LisBa">
+  <data key="d5">11</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="2e5kXDvESsDPMyuQZ0qouH">
+  <data key="d5">6</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0KKUc4amZyvswV2YL6WTar">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1mcTU81TzQhprhouKaTkpq">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1Ts9of7VPZElwPQnqnDSfW">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="5XJDexmWFLWOkjOEjOVX3e">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="6kq4GHwUcUojGIu0ziSNXf">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="7e10JUMF7MJmmwYpnTSMI5">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="09xRT8VIvTTNEAfz0HTxvx">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="3Wb38LDP3N4tkobValgE9D">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="5em6oZOCAjymksDCAMH8Zh">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0lnehUfeSQDs1Mbbc4fa6K">
+  <data key="d5">8</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1fux65HMCBvfJHqlBc4Nno">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1QhaqxeqF9sipS2gwbEKpu">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="6AMa1VFQ7qCi61tCRtVWXe">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="2t7vyRN71qtQT18frElAnV">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="3ScY9CQxNLQei8Umvpx5g6">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4GMgdB3vwbBOc42hbXEi9p">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="3jFjgKOGfVLWfXX8q5wrsg">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="6vbY3hOaCAhC7VjucswgdS">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0ocFjQRJwMXu71M4hFuAuw">
+  <data key="d5">4</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1q13yHC6Syg5Y8iPLrRnCq">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4myAXQmMuS1lZe8T6Y7eBg">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">3</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0tR60pwxQ5WKjPxQcKoCQ7">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="3RtNN1VnooWEn3KQk03DUL">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="00me4Ke1LsvMxt5kydlMyU">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="11IcDecUvnKOttYzE3d0Z1">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="3PkVrt8lRBTV2RDSICxz5X">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="6XFITTl7cFTdopDY3lUdlY">
+  <data key="d5">3</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="18uNULJ5iZf4hIcGq5WvbZ">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="5UGUivMfBVd8JcBfjnniBf">
+  <data key="d5">3</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1cH1z49SP3Ul0DxaRLWYVy">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4QoDg1T93yGL14pSesSyUj">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4QVBYiagIaa6ZGSPMbybpy">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0KPX4Ucy9dk82uj4GpKesn">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="5EvFsr3kj42KNv97ZEnqij">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="0zz9lzzQBgwxEDsYHy0H2n">
+  <data key="d5">6</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="16Juw2gfa9IxEL3Vu69cH7">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="38Zp4UKTgjSoGoto3WHBNr">
+  <data key="d5">11</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="329e4yvIujISKGKz1BZZbO">
+  <data key="d5">2</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1pmixngtBJleMrGUG5o8DE">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="7fzjOp0zWBmu7M5R7kZW60">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="4gUE1bhccIGVxxwXIyuWYD">
+  <data key="d5">1</data>
+</edge>
+<edge source="01nUdqwuIHCHLZNP2TvYVF" target="1iUzrM5MrTizYrOdqVH5bK">
+  <data key="d5">1</data>
+</edge>
+<edge source="4z19QMyPVRwbd4Fs2LisBa" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">1</data>
+</edge>
+<edge source="4z19QMyPVRwbd4Fs2LisBa" target="1QhaqxeqF9sipS2gwbEKpu">
+  <data key="d5">1</data>
+</edge>
+<edge source="329e4yvIujISKGKz1BZZbO" target="12vb80Km0Ew53ABfJOepVz">
+  <data key="d5">1</data>
+</edge>
+<edge source="329e4yvIujISKGKz1BZZbO" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">1</data>
+</edge>
+<edge source="1fux65HMCBvfJHqlBc4Nno" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">14</data>
+</edge>
+<edge source="4myAXQmMuS1lZe8T6Y7eBg" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">9</data>
+</edge>
+<edge source="12vb80Km0Ew53ABfJOepVz" target="2TjgzYcbTdsZjbT9OItIeB">
+  <data key="d5">1</data>
+</edge>
+<edge source="6kq4GHwUcUojGIu0ziSNXf" target="3RtNN1VnooWEn3KQk03DUL">
+  <data key="d5">2</data>
+</edge>
+<edge source="6kq4GHwUcUojGIu0ziSNXf" target="5XJDexmWFLWOkjOEjOVX3e">
+  <data key="d5">1</data>
+</edge>
+<edge source="3Wb38LDP3N4tkobValgE9D" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">3</data>
+</edge>
+<edge source="3RtNN1VnooWEn3KQk03DUL" target="0GgyFUpOyzWDRDqx8FCTDN">
+  <data key="d5">2</data>
+</edge>
+<edge source="1mcTU81TzQhprhouKaTkpq" target="5hdhHgpxyniooUiQVaPxQ0">
+  <data key="d5">2</data>
+</edge>
+</graph></graphml>
